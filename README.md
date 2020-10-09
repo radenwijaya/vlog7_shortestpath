@@ -12,3 +12,5 @@ Therefore the source code was in .dpr extension, but it can also be read using n
 Download Delphi Community edition for free here:
 https://www.embarcadero.com/products/delphi/product-editions
 It is fully functional and can be used for both studying or writing commercial application.
+
+Video is available here: https://youtu.be/WfwI-jA4_dA

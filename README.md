@@ -7,6 +7,8 @@ Please note that this algorithm is originally made by me.  You may use only for 
 
 However I strongly discourage the use of this algorithm in production even though for all the tests I conducted with this algorithm produces the same result as Floyd-Warshall's algorithm.  The correctness of this algorithm has not yet been proven.
 
+The main source code is contained in project3.dpr
+
 The source code was written in Pascal, it is a simple, powerful and high performance programming language with speed comparable to C++.  However I used Delphi 10.1 Berlin to compile and run as Turbo Pascal no longer works in Windows 10 x64.  
 Therefore the source code was in .dpr extension, but it can also be read using notepad. 
 Download Delphi Community edition for free here:
